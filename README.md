@@ -217,7 +217,7 @@ O projeto envolveu conhecimentos em:
 - prototipagem.
 
 ---
-Equipe
+#Equipe
 
 ## CETI São João Batista
 

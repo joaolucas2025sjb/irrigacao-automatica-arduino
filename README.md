@@ -203,8 +203,20 @@ Foram realizados testes para:
 - distribuição da água;
 - desligamento automático do sistema.
 
---
+--- 
 
+
+# Conhecimentos Aplicados
+
+O projeto envolveu conhecimentos em:
+- programação;
+- automação;
+- eletrônica básica;
+- sustentabilidade;
+- desenvolvimento de sistemas;
+- prototipagem.
+
+---
 Equipe
 
 ## CETI São João Batista

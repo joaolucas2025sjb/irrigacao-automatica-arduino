@@ -193,3 +193,10 @@ Programa Do Piauí Para o Mundo 2026
 - Redução do consumo de água potável;
 - Baixo custo de implementação;
 - Fácil replicação em escolas públicas.
+---
+
+# Considerações Finais
+
+O projeto demonstra como a tecnologia pode ser utilizada para promover sustentabilidade, automação e conscientização ambiental dentro do ambiente escolar.
+
+A solução apresenta baixo custo, facilidade de replicação e potencial de expansão futura, tornando-se uma alternativa viável para irrigação inteligente utilizando água reaproveitada.

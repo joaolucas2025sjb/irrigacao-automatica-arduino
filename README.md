@@ -134,7 +134,6 @@ na Arduino IDE.
 ---
 
 
-#MVP Funcional
 
 O MVP apresenta:
 - monitoramento automático da umidade;

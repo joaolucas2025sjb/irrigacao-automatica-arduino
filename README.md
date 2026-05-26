@@ -142,6 +142,38 @@ O MVP apresenta:
 - desligamento automático após atingir umidade adequada.
 
 ---
+# Diferenciais
+
+- Utilização de água reaproveitada;
+- Baixo custo;
+- Fácil implementação;
+- Automatização completa da irrigação;
+- Aplicação sustentável no ambiente escolar.
+
+---
+
+# Melhorias Futuras
+
+- Integração com IoT;
+- Monitoramento remoto;
+- Aplicativo mobile;
+- Dashboard web;
+- Painéis solares;
+- Sensores adicionais;
+- Registro automático de dados.
+
+---
+
+# Testes Realizados
+
+Foram realizados testes para:
+- leitura do sensor de umidade;
+- acionamento do módulo relé;
+- funcionamento da bomba;
+- distribuição da água;
+- desligamento automático do sistema.
+
+--
 
 Equipe
 
@@ -194,6 +226,7 @@ Programa Do Piauí Para o Mundo 2026
 - Baixo custo de implementação;
 - Fácil replicação em escolas públicas.
 ---
+ 
 
 # Considerações Finais
 

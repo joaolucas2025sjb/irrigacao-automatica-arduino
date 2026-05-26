@@ -177,3 +177,19 @@ Programa Do Piauí Para o Mundo 2026
 - Artigos sobre irrigação automatizada
 - Estudos sobre reaproveitamento de água
 
+# Impactos do Projeto
+
+## Sustentabilidade
+- Reaproveitamento de água;
+- Redução do desperdício;
+- Uso consciente dos recursos naturais.
+
+## Educação
+- Integração entre tecnologia e sustentabilidade;
+- Incentivo ao aprendizado prático;
+- Aplicação de automação no ambiente escolar.
+
+## Economia
+- Redução do consumo de água potável;
+- Baixo custo de implementação;
+- Fácil replicação em escolas públicas.

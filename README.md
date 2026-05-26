@@ -25,7 +25,19 @@ Além disso, a irrigação manual pode causar:
 Diante disso, surgiu a necessidade de desenvolver uma solução automatizada, acessível e sustentável para o reaproveitamento hídrico e irrigação inteligente.
 
 ---
+# Solução Desenvolvida
 
+O sistema utiliza um sensor de umidade do solo conectado ao Arduino Uno R3 para monitorar continuamente as condições do solo.
+
+Quando o sensor identifica que o solo está seco:
+1. O sensor envia os dados ao Arduino;
+2. O Arduino processa as informações;
+3. O módulo relé é acionado;
+4. A bomba de água é ligada automaticamente;
+5. A irrigação ocorre utilizando água reaproveitada;
+6. Após atingir o nível ideal de umidade, o sistema interrompe automaticamente a irrigação.
+
+---
 # Tecnologias Utilizadas
 
 - Arduino Uno R3

@@ -11,3 +11,15 @@ A solução utiliza água reaproveitada proveniente de aparelhos de ar-condicion
 O sistema monitora continuamente a umidade do solo e realiza a irrigação apenas quando necessário, evitando desperdícios e aumentando a eficiência no uso dos recursos hídricos.
 
 ---
+
+# Problema
+
+Grande parte da água proveniente de aparelhos de ar-condicionado e do desperdício dos bebedouros escolares é descartada diariamente.
+
+Além disso, a irrigação manual pode causar:
+- desperdício de água;
+- irrigação excessiva;
+- irrigação insuficiente;
+- dificuldades na manutenção de hortas escolares.
+
+Diante disso, surgiu a necessidade de desenvolver uma solução automatizada, acessível e sustentável para o reaproveitamento hídrico e irrigação inteligente.

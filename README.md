@@ -23,3 +23,37 @@ Além disso, a irrigação manual pode causar:
 - dificuldades na manutenção de hortas escolares.
 
 Diante disso, surgiu a necessidade de desenvolver uma solução automatizada, acessível e sustentável para o reaproveitamento hídrico e irrigação inteligente.
+
+---
+
+# Tecnologias Utilizadas
+
+- Arduino Uno R3
+- Arduino IDE
+- Sensor de Umidade do Solo
+- Módulo Relé 5V
+- Bomba de Água
+- Protoboard
+- Jumpers
+- GitHub
+- Eletrônica Básica
+- Automação
+
+---
+
+# Componentes Utilizados
+
+| Componente | Quantidade |
+|---|---|
+| Arduino Uno R3 | 1 |
+| Sensor de Umidade do Solo | 1 |
+| Módulo Relé 5V | 1 |
+| Bomba de Água | 1 |
+| Protoboard | 1 |
+| Fios Jumper | Diversos |
+| Mangueiras | 1 conjunto |
+| Reservatório de Água | 1 |
+| Fonte de Alimentação | 1 |
+
+---
+

@@ -143,3 +143,37 @@ O MVP apresenta:
 
 ---
 
+Equipe
+
+## CETI São João Batista
+
+### Integrantes
+- Elayni Feitoza de Medeiros
+- Allana Náyra de Sousa Nascimento
+- Maria Paula Almeida Ribeiro
+- Cráisla Vitória Barbosa Silva
+- João Lucas Lima de Meneses
+
+### Orientador
+- Lucas Eduardo Soares de Oliveira
+
+---
+
+# Instituição
+
+CETI São João Batista  
+3ª GRE — São João da Fronteira  
+Programa Do Piauí Para o Mundo 2026
+
+---
+
+
+# Referências
+
+- Instituto Trata Brasil
+- Ministério do Meio Ambiente
+- Arduino Documentation
+- Cirkit Designer
+- Artigos sobre irrigação automatizada
+- Estudos sobre reaproveitamento de água
+

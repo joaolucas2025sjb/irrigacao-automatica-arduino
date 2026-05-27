@@ -6,7 +6,7 @@
 
 Este projeto consiste no desenvolvimento de um sistema automatizado de irrigação utilizando Arduino Uno R3, sensor de umidade do solo, módulo relé e bomba de água para automatizar a irrigação de hortas escolares.
 
-A solução utiliza água reaproveitada proveniente de aparelhos de ar-condicionado e bebedouros escolares, promovendo sustentabilidade, economia de água e conscientização ambiental no ambiente escolar.
+A solução utiliza água reaproveitada proveniente de aparelhos de ares-condicionados e bebedouros escolares, promovendo sustentabilidade, economia de água e conscientização ambiental no ambiente escolar.
 
 O sistema monitora continuamente a umidade do solo e realiza a irrigação apenas quando necessário, evitando desperdícios e aumentando a eficiência no uso dos recursos hídricos.
 
@@ -14,7 +14,7 @@ O sistema monitora continuamente a umidade do solo e realiza a irrigação apena
 
 # Problema
 
-Grande parte da água proveniente de aparelhos de ar-condicionado e do desperdício dos bebedouros escolares é descartada diariamente.
+Grande parte da água proveniente de aparelhos de ares-condicionados e do desperdício dos bebedouros escolares é descartada diariamente.
 
 Além disso, a irrigação manual pode causar:
 - desperdício de água;
@@ -78,7 +78,7 @@ Sensor de Umidade → Arduino Uno R3 → Relé → Bomba de Água → Irrigaçã
 
 ## Etapas
 
-1. A água descartada pelos aparelhos de ar-condicionado e pelos bebedouros é coletada;
+1. A água descartada pelos aparelhos de ares-condicionados e pelos bebedouros é coletada;
 2. A água é armazenada em um reservatório;
 3. O sensor monitora constantemente a umidade do solo;
 4. O Arduino recebe os dados do sensor;

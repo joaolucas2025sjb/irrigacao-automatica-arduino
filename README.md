@@ -155,10 +155,10 @@ O MVP apresenta:
 
 ## Vídeo Demonstrativo
 
-O vídeo demonstrativo está disponível em:
+O vídeo do funcionamento está disponível em:
 
 ```txt
-videos/lv_0_20260527203830.mp4
+lv_0_20260527203830.mp4
 ```
 
 ---
@@ -166,9 +166,9 @@ videos/lv_0_20260527203830.mp4
 
 # Imagens do Projeto
 
-## Protótipo
+## MVP
 
-![Protótipo](imagens/IMG-20260527-WA0028.jpg)
+IMG-20260527-WA0028.jpg
 
 
 ---
